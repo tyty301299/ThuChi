@@ -1,0 +1,34 @@
+PODS:
+  - CarbonKit (2.3.1)
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+  - FSCalendar (2.8.2)
+  - IQKeyboardManagerSwift (6.5.6)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - CarbonKit
+  - Charts
+  - FSCalendar
+  - IQKeyboardManagerSwift
+  - Toast-Swift
+
+SPEC REPOS:
+  trunk:
+    - CarbonKit
+    - Charts
+    - FSCalendar
+    - IQKeyboardManagerSwift
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  CarbonKit: b60e24dbdb47179990d5e074efa87ab819c8de98
+  Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
+  FSCalendar: e6a2eb9c571bf0719ed797ef807e08426753c241
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: 87d8cbfcc55d8228a979a0cca6abb97bef544b12
+
+COCOAPODS: 1.10.2

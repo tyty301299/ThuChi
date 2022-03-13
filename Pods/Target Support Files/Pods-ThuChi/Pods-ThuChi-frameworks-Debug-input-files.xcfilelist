@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-ThuChi/Pods-ThuChi-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CarbonKit/CarbonKit.framework
+${BUILT_PRODUCTS_DIR}/Charts/Charts.framework
+${BUILT_PRODUCTS_DIR}/FSCalendar/FSCalendar.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework
+${BUILT_PRODUCTS_DIR}/Toast-Swift/Toast_Swift.framework
